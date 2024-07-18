@@ -35,7 +35,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 **Huanhuan Ma**, Weizhi Xu, Yifan Wei, Liuji Chen, Liang Wang, Qiang Liu, Shu Wu, Liang Wang
 
-We introduct a large scale Multi-hop fact checking dataset with textual explanations, which can be used to evaluate the explainability of fact verification models.
+We introduce a large scale Multi-hop fact checking dataset with textual explanations, which can be used to evaluate the explainability of fact verification models.
 
 </div>
 </div>
@@ -59,7 +59,8 @@ We introduce a novel multimodal out-of-context detection framework with soft log
 
 
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+# Project
+
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 

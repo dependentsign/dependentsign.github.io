@@ -19,11 +19,16 @@ redirect_from:
 
 Welcome to Huanhuan Ma (Andy)’s Personal Homepage!
 
-I am a master student at the Institute of Automation, Chinese Academy of Sciences (expected to graduate in June 2024). Additionally, I am a member at the Center for Research on Intelligent Perception and Computing (CRIPAC), National Laboratory of Pattern Recognition (NLPR). I am fortunate to be advised by [Qiang Liu](https://john-qiangliu.tech/) and [Liang Wang](http://www.cbsr.ia.ac.cn/users/liangwang/).
+I am a master student at the [Institute of Automation, Chinese Academy of Sciences](http://english.ia.cas.cn/) (expected to graduate in June 2024). Additionally, I am a member at the [Center for Research on Intelligent Perception and Computing (CRIPAC)](http://cripac.ia.ac.cn/en/EN/volumn/home.shtml), National Laboratory of Pattern Recognition (NLPR). I am fortunate to be advised by [Qiang Liu](https://john-qiangliu.tech/) and [Liang Wang](http://www.cbsr.ia.ac.cn/users/liangwang/).
 
 My research interests lie in the field of natural language processing (NLP), with a focus on fake information detection, including fact verification and out-of-context detection. Currently, I am highly intrigued by exploring the intersection of Large Language Models (LLMs) and AI safety.
 
 I have spent wonderful time at [BAAI](https://www.baai.ac.cn/english.html), and [NC State](https://dongkuanx27.github.io/page-lab.html) as a research intern/assistant.
+
+<div style="border-left: 4px solid #ccc; padding-left: 20px; margin: 20px 0; font-style: italic;">
+  "With a Ph.D. you will have a better chance of spending the rest of your life doing what you want to do, instead of what someone else wants you to do."
+  <div style="text-align: right; margin-top: 10px;">— William Lipscomb</div>
+</div>
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=B4ZlbH8AAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=B4ZlbH8AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
@@ -140,4 +145,4 @@ Data Mining and Big Data (DMBD) 2022
 - ACM International Conference on Information and Knowledge Management (CIKM) 2024, PC member
 
 
-"With a Ph.D. you will have a better chance of spending the rest of your life doing what you want to do, instead of what someone else wants you to do." [William Lipscomb](https://en.wikipedia.org/wiki/William_Lipscomb)
+<!-- *"With a Ph.D. you will have a better chance of spending the rest of your life doing what you want to do, instead of what someone else wants you to do."* [William Lipscomb](https://en.wikipedia.org/wiki/William_Lipscomb) -->

@@ -53,7 +53,65 @@ We introduce a large scale Multi-hop fact checking dataset with textual explanat
 </div>
 </div>
 
-[... rest of the publications ...]
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICASSP 2024 Oral</div><img src='images/icassp.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Interpretable Multimodal Out-of-Context Detection with Soft Logic Regularization](https://ieeexplore.ieee.org/abstract/document/10447706/)
+
+**Huanhuan Ma<sup>\*</sup>**, Jinghao Zhang<sup>\*</sup>, Qiang Liu, Shu Wu, Liang Wang
+
+**IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) 2024**
+
+We introduce a novel multimodal out-of-context detection framework with soft logic regularization, which can effectively detect out-of-context information with interpretability.
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2023 Findings</div><img src='images/menatqa.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[MenatQA: A New Dataset for Testing the Temporal Comprehension and Reasoning Abilities of Large Language Models](https://aclanthology.org/2023.findings-emnlp.100/)
+
+Yifan Wei, Yisong Su, **Huanhuan Ma**, Xiaoyan Yu, Fangyu Lei, Yuanzhe Zhang, Jun Zhao, Kang Liu
+
+[[PDF]](https://aclanthology.org/2023.findings-emnlp.100.pdf) [[ArXiv]](https://arxiv.org/pdf/2310.05157) [[Code]](https://github.com/weiyifan1023/MenatQA) 
+
+**Findings of the Association for Computational Linguistics: EMNLP 2023**
+
+We construct Multiple Sensitive Factors Time QA (MenatQA), which encompasses three temporal factors (scope factor, order factor, counterfactual factor) with total 2,853 samples for evaluating the time comprehension and reasoning abilities of LLMs.
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv</div><img src='images/rake.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Assessing knowledge editing in language models via relation perspective](https://arxiv.org/abs/2311.09053)
+
+Yifan Wei, Xiaoyan Yu, **Huanhuan Ma**, Fangyu Lei, Yixuan Weng, Ran Song, Kang Liu
+
+[[PDF]](https://arxiv.org/pdf/2311.09053) [[ArXiv]](https://arxiv.org/pdf/2311.09053) [[Code]](https://github.com/weiyifan1023/RaKE) 
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">DMBD 2022</div><img src='images/dmbd.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Multi-Cause Learning for Diagnosis Prediction](https://link.springer.com/chapter/10.1007/978-981-19-9297-1_23)
+
+Liping Wang, Qiang Liu, **Huanhuan Ma**, Shu Wu, Liang Wang
+
+Data Mining and Big Data (DMBD) 2022
+
+[[PDF]](_data/dmbd.pdf)
+
+</div>
+</div>
+
 
 # 🚀 Projects
 

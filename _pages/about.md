@@ -48,9 +48,10 @@ I have spent wonderful time at [BAAI](https://www.baai.ac.cn/english.html), and 
 
 **Findings of the Association for Computational Linguistics ACL 2024**
 
-[[PDF]](https://aclanthology.org/2024.findings-acl.556.pdf) [[Code]](https://github.com/dependentsign/EX-FEVER) [[POSTER]](https://dependentsign.github.io/_data/acl_2024_poster.pdf)
 
 We introduce a large scale Multi-hop fact checking dataset with textual explanations, which can be used to evaluate the explainability of fact verification models.
+
+[[PDF]](https://aclanthology.org/2024.findings-acl.556.pdf) [[Code]](https://github.com/dependentsign/EX-FEVER) [[POSTER]](https://dependentsign.github.io/docs/acl_2024_poster.pdf)
 
 </div>
 </div>
@@ -77,11 +78,11 @@ We introduce a novel multimodal out-of-context detection framework with soft log
 
 Yifan Wei, Yisong Su, **Huanhuan Ma**, Xiaoyan Yu, Fangyu Lei, Yuanzhe Zhang, Jun Zhao, Kang Liu
 
-[[PDF]](https://aclanthology.org/2023.findings-emnlp.100.pdf) [[Code]](https://github.com/weiyifan1023/MenatQA) 
-
 **Findings of the Association for Computational Linguistics: EMNLP 2023**
 
 We construct Multiple Sensitive Factors Time QA (MenatQA), which encompasses three temporal factors (scope factor, order factor, counterfactual factor) with total 2,853 samples for evaluating the time comprehension and reasoning abilities of LLMs.
+
+[[PDF]](https://aclanthology.org/2023.findings-emnlp.100.pdf) [[Code]](https://github.com/weiyifan1023/MenatQA) 
 
 </div>
 </div>
@@ -109,7 +110,7 @@ Liping Wang, Qiang Liu, **Huanhuan Ma**, Shu Wu, Liang Wang
 
 Data Mining and Big Data (DMBD) 2022
 
-[[PDF]](_data/dmbd.pdf)
+[[PDF]](docs/dmbd.pdf)
 
 </div>
 </div>

@@ -42,11 +42,13 @@ I have spent wonderful time at [BAAI](https://www.baai.ac.cn/english.html), and 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2024 Findings</div><img src='images/exfever.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[EX-FEVER: A Dataset for Multi-hop Explainable Fact Verification](https://arxiv.org/pdf/2310.09754)
+[EX-FEVER: A Dataset for Multi-hop Explainable Fact Verification](https://aclanthology.org/2024.findings-acl.556/)
 
 **Huanhuan Ma**, Weizhi Xu, Yifan Wei, Liuji Chen, Liang Wang, Qiang Liu, Shu Wu, Liang Wang
 
-[[ArXiv]](https://arxiv.org/pdf/2310.09754) [[Code]](https://github.com/dependentsign/EX-FEVER)
+**Findings of the Association for Computational Linguistics ACL 2024**
+
+[[PDF]](https://aclanthology.org/2024.findings-acl.556.pdf) [[Code]](https://github.com/dependentsign/EX-FEVER) [[POSTER]](https://dependentsign.github.io/_data/acl_2024_poster.pdf)
 
 We introduce a large scale Multi-hop fact checking dataset with textual explanations, which can be used to evaluate the explainability of fact verification models.
 
@@ -75,7 +77,7 @@ We introduce a novel multimodal out-of-context detection framework with soft log
 
 Yifan Wei, Yisong Su, **Huanhuan Ma**, Xiaoyan Yu, Fangyu Lei, Yuanzhe Zhang, Jun Zhao, Kang Liu
 
-[[PDF]](https://aclanthology.org/2023.findings-emnlp.100.pdf) [[ArXiv]](https://arxiv.org/pdf/2310.05157) [[Code]](https://github.com/weiyifan1023/MenatQA) 
+[[PDF]](https://aclanthology.org/2023.findings-emnlp.100.pdf) [[Code]](https://github.com/weiyifan1023/MenatQA) 
 
 **Findings of the Association for Computational Linguistics: EMNLP 2023**
 

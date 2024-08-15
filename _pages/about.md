@@ -51,7 +51,7 @@ I have spent wonderful time at [BAAI](https://www.baai.ac.cn/english.html), and 
 
 We introduce a large scale Multi-hop fact checking dataset with textual explanations, which can be used to evaluate the explainability of fact verification models.
 
-[[PDF]](https://aclanthology.org/2024.findings-acl.556.pdf) [[Code]](https://github.com/dependentsign/EX-FEVER) <a href="localfiles/acl_2024_poster.pdf">[POSTER]
+[[PDF]](https://aclanthology.org/2024.findings-acl.556.pdf) [[Code]](https://github.com/dependentsign/EX-FEVER) <a href="localfiles/acl_2024_poster.pdf">[POSTER] <a href="localfiles/acl_2024_slide.pdf">[Slide]
 
 </div>
 </div>
@@ -67,7 +67,7 @@ We introduce a large scale Multi-hop fact checking dataset with textual explanat
 
 We introduce a novel multimodal out-of-context detection framework with soft logic regularization, which can effectively detect out-of-context information with interpretability.
 
-<a href="localfiles/icassp2024.pdf">[PDF]
+<a href="localfiles/icassp2024.pdf">[PDF] <a href="localfiles/icassp_slide.pdf">[Slide]
 
 </div>
 </div>
@@ -112,7 +112,7 @@ Liping Wang, Qiang Liu, **Huanhuan Ma**, Shu Wu, Liang Wang
 
 Data Mining and Big Data (DMBD) 2022
 
-<a href="localfiles/dmbd.pdf">[PDF]
+<a href="localfiles/dmbd.pdf">[PDF] 
 
 </div>
 </div>

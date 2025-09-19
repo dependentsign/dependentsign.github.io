@@ -19,11 +19,12 @@ redirect_from:
 
 Welcome to Huanhuan Ma (Andy)'s Personal Homepage!
 
-I am a master student at the [Institute of Automation, Chinese Academy of Sciences](http://english.ia.cas.cn/) (expected to graduate in June 2024). Additionally, I am a member at the [Center for Research on Intelligent Perception and Computing (CRIPAC)](http://cripac.ia.ac.cn/en/EN/volumn/home.shtml), National Laboratory of Pattern Recognition (NLPR). I am fortunate to be advised by [Qiang Liu](https://john-qiangliu.tech/) and [Liang Wang](http://www.cbsr.ia.ac.cn/users/liangwang/).
-
-My research interests lie in the field of natural language processing (NLP), with a focus on fake information detection, including fact verification and out-of-context detection. Currently, I am highly intrigued by exploring the intersection of Large Language Models (LLMs) and AI safety.
+I am a first-year Ph.D. student in Computer Science at the [UIC](https://www.uic.edu/), advised by [Prof. Philip S. Yu](https://scholar.google.com/citations?user=D0lL1r0AAAAJ).
+Before that, I received my M.S. degree in Artificial Intelligence from the [Institute of Automation, Chinese Academy of Sciences (CASIA)](http://english.ia.cas.cn/) in July 2024, where I was advised by [Prof. Qiang Liu](https://john-qiangliu.tech/), [Prof. Shu Wu](https://people.ucas.ac.cn/~shuwu?language=en) and [Prof. Liang Wang](http://www.cbsr.ia.ac.cn/users/liangwang/).
 
 I have spent wonderful time at [BAAI](https://www.baai.ac.cn/english.html), and [NC State](https://dongkuanx27.github.io/page-lab.html) as a research intern/assistant.
+
+
 
 <div style="border-left: 4px solid #ccc; padding-left: 20px; margin: 20px 0; font-style: italic;">
   "With a Ph.D. you will have a better chance of spending the rest of your life doing what you want to do, instead of what someone else wants you to do."
@@ -31,6 +32,7 @@ I have spent wonderful time at [BAAI](https://www.baai.ac.cn/english.html), and 
 </div>
 
 # 🔥 News
+_ *2025.09*: &nbsp;📢 Release a novel personality traits evaluation tool, CSI, for assessing LLMs.[Github](https://github.com/dependentsign/CSI).
 - *2024.07*: &nbsp;🎉🎉 A CIKM short paper has been accepted. Congratulations to [YiFan Wei](https://github.com/weiyifan1023)🎉.
 - *2024.05*: &nbsp;📢 Our paper "EX-FEVER: A Dataset for Multi-hop Explainable Fact Verification" has been accepted to ACL 2024 Findings!
 - *2023.12*: &nbsp;🎉 Our paper "Interpretable Multimodal Out-of-Context Detection with Soft Logic Regularization" has been accepted as an oral presentation at ICASSP 2024!
@@ -140,14 +142,16 @@ Data Mining and Big Data (DMBD) 2022
 - [Awesome-LLM-based-Evaluators](https://github.com/dependentsign/Awesome-LLM-based-Evaluators): A curated list of LLM-based evaluators for various NLP tasks. ![GitHub stars](https://img.shields.io/github/stars/dependentsign/Awesome-LLM-based-Evaluators?style=social)
 
 # 📖 Educations
+- *2025.08 - Present*, Ph.D. in Computer Science, University of Illinois Chicago (UIC). Advisor: Prof. Philip S. Yu.
+
 - *2021.09 - 2024.07*, M.S. in Artificial Intelligence, Institute of Automation, Chinese Academy of Sciences. Advisors: Prof. Liang Wang and Prof. Qiang Liu.
 
 - *2016.09 - 2020.07*, B.E. in Software Engineering, Zhengzhou University. 
 
 # 💻 Internships
 
-- *2024.07 - Present*: Research Intern, [BAAI](https://www.baai.ac.cn/english.html), Beijing, China.
-- *2023.12 - Present*: Research Assistant, [NC State University, Generative Intelligent Computing (GIC) Lab](https://dongkuanx27.github.io/page-lab.html), NC, USA.
+- *2024.07 - 2025.04*: Research Intern, [BAAI](https://www.baai.ac.cn/english.html), Beijing, China.
+- *2023.12 - 2024.12*: Research Assistant, [NC State University, Generative Intelligent Computing (GIC) Lab](https://dongkuanx27.github.io/page-lab.html), NC, USA.
 
 # 📅 Academic Services
 

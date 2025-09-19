@@ -32,7 +32,7 @@ I have spent wonderful time at [BAAI](https://www.baai.ac.cn/english.html), and 
 </div>
 
 # 🔥 News
-_ *2025.09*: &nbsp;📢 Release a novel personality traits evaluation tool, CSI, for assessing LLMs.[Github](https://github.com/dependentsign/CSI).
+- *2025.09*: &nbsp;📢 Release a novel personality traits evaluation tool, CSI, for assessing LLMs.[Github](https://github.com/dependentsign/CSI).
 - *2024.07*: &nbsp;🎉🎉 A CIKM short paper has been accepted. Congratulations to [YiFan Wei](https://github.com/weiyifan1023)🎉.
 - *2024.05*: &nbsp;📢 Our paper "EX-FEVER: A Dataset for Multi-hop Explainable Fact Verification" has been accepted to ACL 2024 Findings!
 - *2023.12*: &nbsp;🎉 Our paper "Interpretable Multimodal Out-of-Context Detection with Soft Logic Regularization" has been accepted as an oral presentation at ICASSP 2024!

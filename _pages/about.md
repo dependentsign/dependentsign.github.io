@@ -49,6 +49,22 @@ Representative work: **Core Sentiment Inventory (CSI)** for behavioral evaluatio
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/CSI.jpg' alt="CSI" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Beyond BFI: The CSI for Enhanced Reliability and Validity in Evaluating LLM Personality Traits](https://arxiv.org/pdf/2503.20182)
+
+**Huanhuan Ma**, Haisong Gong, Xiaoyuan Yi, Xing Xie, Philip S. Yu, Dongkuan Xu
+
+**arXiv preprint**, 2025
+
+We propose **Core Sentiment Inventory (CSI)**, an implicit-association-test-inspired behavioral evaluation framework for more reliable assessment of LLM traits beyond self-report metrics.
+
+[[PDF]](https://arxiv.org/pdf/2503.20182) [[Code]](https://github.com/dependentsign/CSI)
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2024 Findings</div><img src='images/exfever.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 

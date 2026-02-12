@@ -24,6 +24,14 @@ Before that, I received my M.S. degree in Artificial Intelligence from the [Inst
 
 I have spent wonderful time at [BAAI](https://www.baai.ac.cn/english.html), and [NC State](https://dongkuanx27.github.io/page-lab.html) as a research intern/assistant.
 
+# 🔍 Current Research Interests
+My current research focuses on building and evaluating user-aligned LLM agents through:
+- **LLM Personalization**: long-term preference modeling, memory, and adaptive interactions.
+- **LLM Behavioral Evaluation**: measuring behavioral traits and robustness beyond self-report metrics (e.g., implicit/behavioral probes).
+- **Agentic AI  Evaluation**: reliable multi-turn evaluation, user simulators, and benchmark design for real-world deployment.
+
+Representative work: **Core Sentiment Inventory (CSI)** for behavioral evaluation of LLM traits   [[GitHub]](https://github.com/dependentsign/CSI).
+
 
 
 <div style="border-left: 4px solid #ccc; padding-left: 20px; margin: 20px 0; font-style: italic;">
@@ -32,7 +40,7 @@ I have spent wonderful time at [BAAI](https://www.baai.ac.cn/english.html), and 
 </div>
 
 # 🔥 News
-- *2025.09*: &nbsp;📢 Release a novel personality traits evaluation tool, CSI, for assessing LLMs.[Github](https://github.com/dependentsign/CSI).
+- *2025.09*: &nbsp;📢 Release a novel personality traits evaluation tool, CSI, for assessing LLMs. [[GitHub]](https://github.com/dependentsign/CSI).
 - *2024.07*: &nbsp;🎉🎉 A CIKM short paper has been accepted. Congratulations to [YiFan Wei](https://github.com/weiyifan1023)🎉.
 - *2024.05*: &nbsp;📢 Our paper "EX-FEVER: A Dataset for Multi-hop Explainable Fact Verification" has been accepted to ACL 2024 Findings!
 - *2023.12*: &nbsp;🎉 Our paper "Interpretable Multimodal Out-of-Context Detection with Soft Logic Regularization" has been accepted as an oral presentation at ICASSP 2024!
@@ -139,6 +147,7 @@ Data Mining and Big Data (DMBD) 2022
 
 # 🚀 Projects
 
+- [CSI: Core Sentiment Inventory](https://github.com/dependentsign/CSI): Behavioral evaluation toolkit for probing LLM traits beyond self-report.
 - [Awesome-LLM-based-Evaluators](https://github.com/dependentsign/Awesome-LLM-based-Evaluators): A curated list of LLM-based evaluators for various NLP tasks. ![GitHub stars](https://img.shields.io/github/stars/dependentsign/Awesome-LLM-based-Evaluators?style=social)
 
 # 📖 Educations

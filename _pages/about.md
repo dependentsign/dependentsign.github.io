@@ -216,6 +216,8 @@ Data Mining and Big Data (DMBD) 2022
 # 📅 Academic Services
 
 ## 📖 Reviewers
-- The International Conference on Learning Representations (ICLR) 2025, Reviewer
-- ACM International Conference on Information and Knowledge Management (CIKM) 2024, PC member
-- Annual Conference on Neural Information Processing Systems (NeurIPS) Dataset&Benchmark track 2023, Reviewer
+- International Conference on Learning Representations (ICLR), Reviewer (2025, 2026)
+- Annual Meeting of the Association for Computational Linguistics (ACL), Reviewer (2026)
+- AAAI 2026 Workshop (PerFM), Reviewer
+- ACM International Conference on Information and Knowledge Management (CIKM), Program Committee Member (2024, 2025)
+- Neural Information Processing Systems (NeurIPS), Reviewer (2023 Datasets & Benchmarks Track; 2026)

@@ -17,21 +17,22 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Welcome to Huanhuan Ma (Andy)'s Personal Homepage!
+Welcome to my personal homepage!
 
-I am a first-year Ph.D. student in Computer Science at the [UIC](https://www.uic.edu/), advised by [Prof. Philip S. Yu](https://scholar.google.com/citations?user=D0lL1r0AAAAJ).
+I am a second-year Ph.D. student in Computer Science at the [University of Illinois Chicago (UIC)](https://www.uic.edu/), advised by [Prof. Philip S. Yu](https://scholar.google.com/citations?user=D0lL1r0AAAAJ).
 Before that, I received my M.S. degree in Artificial Intelligence from the [Institute of Automation, Chinese Academy of Sciences (CASIA)](http://english.ia.cas.cn/) in July 2024, where I was advised by [Prof. Qiang Liu](https://john-qiangliu.tech/), [Prof. Shu Wu](https://people.ucas.ac.cn/~shuwu?language=en) and [Prof. Liang Wang](http://www.cbsr.ia.ac.cn/users/liangwang/).
 
 I have spent wonderful time at [BAAI](https://www.baai.ac.cn/english.html), and [NC State](https://dongkuanx27.github.io/page-lab.html) as a research intern/assistant.
 
 # 🔍 Current Research Interests
-My current research focuses on building and evaluating user-aligned LLM agents through:
-- **LLM Personalization**: long-term preference modeling, memory, and adaptive interactions.
-- **LLM Behavioral Evaluation**: measuring behavioral traits and robustness beyond self-report metrics (e.g., implicit/behavioral probes).
-- **Agentic AI  Evaluation**: reliable multi-turn evaluation, user simulators, and benchmark design for real-world deployment.
+My research develops evaluation methods and personalization systems for LLMs and AI agents, with an emphasis on understanding model behavior and building trustworthy, user-aligned systems. I currently focus on:
+- **LLM & Agent Evaluation**: reliable multi-turn evaluation, user simulators, and benchmark design for real-world deployment.
+- **Model Behavior & Trustworthy AI**: behavioral probes, robustness, explainability, and evaluation beyond self-report metrics.
+- **Personalization & User Modeling**: long-term preferences, memory, user-intention reasoning, and adaptive interaction.
 
-Representative work: **Core Sentiment Inventory (CSI)** for behavioral evaluation of LLM traits   [[GitHub]](https://github.com/dependentsign/CSI).
+Representative work: **Core Sentiment Inventory (CSI)** for behavioral evaluation of LLM traits [[Paper]](https://openreview.net/forum?id=9J1wikUlHY) [[Code]](https://github.com/dependentsign/CSI).
 
+I am open to **part-time AI research internships during the academic year** and **full-time research internships for Summer 2027**.
 
 
 <div style="border-left: 4px solid #ccc; padding-left: 20px; margin: 20px 0; font-style: italic;">
@@ -40,6 +41,7 @@ Representative work: **Core Sentiment Inventory (CSI)** for behavioral evaluatio
 </div>
 
 # 🔥 News
+- *2026.06*: &nbsp;📢 Our survey, "Scaling LLM Agent Learning with Data Synthesis," is available as a preprint. [[Paper]](https://openreview.net/forum?id=pQYwkpYmLy)
 - *2025.09*: &nbsp;📢 Release a novel personality traits evaluation tool, CSI, for assessing LLMs. [[GitHub]](https://github.com/dependentsign/CSI).
 - *2024.07*: &nbsp;🎉🎉 A CIKM short paper has been accepted. Congratulations to [YiFan Wei](https://github.com/weiyifan1023)🎉.
 - *2024.05*: &nbsp;📢 Our paper "EX-FEVER: A Dataset for Multi-hop Explainable Fact Verification" has been accepted to ACL 2024 Findings!
@@ -49,18 +51,50 @@ Representative work: **Core Sentiment Inventory (CSI)** for behavioral evaluatio
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/CSI.jpg' alt="CSI" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/CSI.jpg' alt="CSI" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Beyond BFI: The CSI for Enhanced Reliability and Validity in Evaluating LLM Personality Traits](https://arxiv.org/pdf/2503.20182)
+[Beyond BFI: The CSI for Enhanced Reliability and Validity in Evaluating LLM Personality Traits](https://openreview.net/forum?id=9J1wikUlHY)
 
 **Huanhuan Ma**, Haisong Gong, Xiaoyuan Yi, Xing Xie, Philip S. Yu, Dongkuan Xu
 
-**arXiv preprint**, 2025
+**Preprint**, 2026
 
 We propose **Core Sentiment Inventory (CSI)**, an implicit-association-test-inspired behavioral evaluation framework for more reliable assessment of LLM traits beyond self-report metrics.
 
-[[PDF]](https://arxiv.org/pdf/2503.20182) [[Code]](https://github.com/dependentsign/CSI)
+[[Paper]](https://openreview.net/forum?id=9J1wikUlHY) [[Code]](https://github.com/dependentsign/CSI)
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/500x300.png' alt="LLM agent data synthesis survey" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Scaling LLM Agent Learning with Data Synthesis: A Comprehensive Survey](https://openreview.net/forum?id=pQYwkpYmLy)
+
+Hanrong Zhang, Yankai Chen, Shicheng Fan, Dehai Min, Shaowen Chen, **Huanhuan Ma**, et al.
+
+**Preprint**, 2026
+
+We survey how task specifications, trajectories, feedback signals, and environments can be synthesized to support reliable and scalable learning for LLM agents.
+
+[[Paper]](https://openreview.net/forum?id=pQYwkpYmLy)
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/500x300.png' alt="Infinity-MM" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Infinity-MM: Scaling Multimodal Performance with Large-Scale and High-Quality Instruction Data](https://arxiv.org/abs/2410.18558)
+
+Shuhao Gu, Jialing Zhang, et al., **Huanhuan Ma**, et al.
+
+**arXiv preprint**, revised 2025
+
+We introduce a large-scale, high-quality multimodal instruction dataset and a targeted synthetic-data pipeline for scaling vision-language models.
+
+[[Paper]](https://arxiv.org/abs/2410.18558) [[Data]](https://huggingface.co/datasets/BAAI/Infinity-MM)
 
 </div>
 </div>
@@ -164,6 +198,7 @@ Data Mining and Big Data (DMBD) 2022
 # 🚀 Projects
 
 - [CSI: Core Sentiment Inventory](https://github.com/dependentsign/CSI): Behavioral evaluation toolkit for probing LLM traits beyond self-report.
+- [EX-FEVER](https://github.com/dependentsign/EX-FEVER): Dataset and code for multi-hop explainable fact verification (ACL 2024 Findings).
 - [Awesome-LLM-based-Evaluators](https://github.com/dependentsign/Awesome-LLM-based-Evaluators): A curated list of LLM-based evaluators for various NLP tasks. ![GitHub stars](https://img.shields.io/github/stars/dependentsign/Awesome-LLM-based-Evaluators?style=social)
 
 # 📖 Educations

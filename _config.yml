@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Huanhuan Ma"
-description              : "Welcome to my website!"
+description              : "PhD researcher in LLM and agent evaluation, model behavior, personalization, and trustworthy AI."
 repository               : "https://github.com/dependentsign"
 google_scholar_stats_use_cdn : true
 
@@ -21,9 +21,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Huanhuan MA"
+  name             : "Huanhuan Ma"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "LLM Personalization • Behavioral Evaluation • Agentic AI"
+  bio              : "LLM & Agent Evaluation • Model Behavior • Personalization"
   location         : "Chicago, IL, USA"
   employer         :
   pubmed           : 
@@ -136,7 +136,7 @@ sass:
 
 # Outputting
 permalink: /:categories/:title/
-timezone: Asia/Shanghai # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/Chicago # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins

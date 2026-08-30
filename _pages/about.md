@@ -32,6 +32,8 @@ My research develops evaluation methods and personalization systems for LLMs and
 
 I am open to **part-time AI research internships during the academic year** and **full-time research internships for Summer 2027**.
 
+📄 [**Curriculum Vitae**](localfiles/HuanhuanMa-CV.pdf) (PDF, updated August 2026)
+
 
 <div style="border-left: 4px solid #ccc; padding-left: 20px; margin: 20px 0; font-style: italic;">
   "With a Ph.D. you will have a better chance of spending the rest of your life doing what you want to do, instead of what someone else wants you to do."

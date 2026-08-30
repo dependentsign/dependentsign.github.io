@@ -41,7 +41,7 @@ I am open to **part-time AI research internships during the academic year** and 
 </div>
 
 # 🔥 News
-- *2026.08*: &nbsp;🎉🎉 Our paper "Sycophancy Suppression Can Impair Rational Updating" has been accepted to EMNLP 2026 Findings! [[OpenReview]](https://openreview.net/forum?id=52ooNZAzfk)
+- *2026.08*: &nbsp;🎉🎉 Our paper "Sycophancy Suppression Can Impair Rational Updating" has been accepted to EMNLP 2026 Findings! [[arXiv]](https://arxiv.org/abs/2608.26511)
 - *2026.06*: &nbsp;📢 Our survey, "Scaling LLM Agent Learning with Data Synthesis," is available as a preprint. [[Paper]](https://openreview.net/forum?id=pQYwkpYmLy)
 - *2025.09*: &nbsp;📢 Release a novel personality traits evaluation tool, CSI, for assessing LLMs. [[GitHub]](https://github.com/dependentsign/CSI).
 - *2024.07*: &nbsp;🎉🎉 A CIKM short paper has been accepted.
@@ -55,7 +55,7 @@ I am open to **part-time AI research internships during the academic year** and 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2026 Findings</div><img src='images/500x300.png' alt="Sycophancy vs rational updating" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Sycophancy Suppression Can Impair Rational Updating: Anti-Sycophancy Should Preserve the Ability to Update](https://openreview.net/forum?id=52ooNZAzfk)
+[Sycophancy Suppression Can Impair Rational Updating: Anti-Sycophancy Should Preserve the Ability to Update](https://arxiv.org/abs/2608.26511)
 
 **Huanhuan Ma**, Henry Peng Zou, Chengze Li, Enze Ma, Yunyue Su, Philip S. Yu
 
@@ -63,7 +63,7 @@ I am open to **part-time AI research internships during the academic year** and 
 
 We separate **unsupported yielding** (sycophancy) from **rational updating** (evidence-driven correction), and show that DPO, SFT, and activation steering all suppress sycophancy at a measurable cost to the ability to update — a trade-off we localize to a shared internal substrate.
 
-[[OpenReview]](https://openreview.net/forum?id=52ooNZAzfk)
+[[arXiv]](https://arxiv.org/abs/2608.26511)
 
 </div>
 </div>

@@ -52,7 +52,7 @@ I am open to **part-time AI research internships during the academic year** and 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2026 Findings</div><img src='images/500x300.png' alt="Sycophancy vs rational updating" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2026 Findings</div><img src='images/sycophancy-rational-updating.webp' alt="Figure 1: unsupported-yielding and rational-updating examples" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Sycophancy Suppression Can Impair Rational Updating: Anti-Sycophancy Should Preserve the Ability to Update](https://arxiv.org/abs/2608.26511)
@@ -84,7 +84,7 @@ We propose **Core Sentiment Inventory (CSI)**, an implicit-association-test-insp
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/500x300.png' alt="LLM agent data synthesis survey" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/500x300.png' alt="" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Scaling LLM Agent Learning with Data Synthesis: A Comprehensive Survey](https://openreview.net/forum?id=pQYwkpYmLy)
@@ -100,7 +100,7 @@ We survey how task specifications, trajectories, feedback signals, and environme
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/500x300.png' alt="InterruptBench" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/interruptible-agents.webp' alt="Figure 1: InterruptBench setup and evaluation" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [InterruptBench: Evaluating LLM Agents Under User Interruptions in Long-Horizon Web Tasks](https://arxiv.org/abs/2604.00892)
@@ -116,7 +116,7 @@ We formalize three realistic interruption types — addition, revision, and retr
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/500x300.png' alt="Infinity-MM" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/infinity-mm.webp' alt="Figure 2: Infinity-MM data synthesis pipeline" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Infinity-MM: Scaling Multimodal Performance with Large-Scale and High-Quality Instruction Data](https://arxiv.org/abs/2410.18558)
@@ -132,7 +132,7 @@ We introduce a large-scale, high-quality multimodal instruction dataset and a ta
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2024 Findings</div><img src='images/exfever.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2024 Findings</div><img src='images/exfever.png' alt="Multi-hop evidence chain and explainable fact-verification example" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [EX-FEVER: A Dataset for Multi-hop Explainable Fact Verification](https://aclanthology.org/2024.findings-acl.556/)
@@ -149,7 +149,7 @@ We introduce a large scale Multi-hop fact checking dataset with textual explanat
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICASSP 2024 Oral</div><img src='images/icassp.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICASSP 2024 Oral</div><img src='images/icassp.png' alt="Soft-logic multimodal out-of-context detection framework" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Interpretable Multimodal Out-of-Context Detection with Soft Logic Regularization](https://ieeexplore.ieee.org/abstract/document/10447706/)
@@ -166,7 +166,7 @@ We introduce a novel multimodal out-of-context detection framework with soft log
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CIKM 2024</div><img src='images/rake.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CIKM 2024</div><img src='images/rake.jpg' alt="Entity and relation knowledge-localization comparison" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Does Knowledge Localization Hold True? Surprising Differences Between Entity and Relation Perspectives in Language Models](https://dl.acm.org/doi/10.1145/3627673.3679900)
@@ -183,7 +183,7 @@ This study investigates the differences between entity and relational knowledge 
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2023 Findings</div><img src='images/menatqa.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2023 Findings</div><img src='images/menatqa.png' alt="Temporal-reasoning task examples from the MenatQA benchmark" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [MenatQA: A New Dataset for Testing the Temporal Comprehension and Reasoning Abilities of Large Language Models](https://aclanthology.org/2023.findings-emnlp.100/)
@@ -200,7 +200,7 @@ We construct Multiple Sensitive Factors Time QA (MenatQA), which encompasses thr
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv</div><img src='images/rake.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv</div><img src='images/rake.png' alt="Relation-perspective knowledge-editing framework" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Assessing knowledge editing in language models via relation perspective](https://arxiv.org/abs/2311.09053)
@@ -213,7 +213,7 @@ Yifan Wei, Xiaoyan Yu, **Huanhuan Ma**, Fangyu Lei, Yixuan Weng, Ran Song, Kang 
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">DMBD 2022</div><img src='images/dmbd.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">DMBD 2022</div><img src='images/dmbd.png' alt="Multi-cause diagnosis-prediction model overview" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Multi-Cause Learning for Diagnosis Prediction](https://link.springer.com/chapter/10.1007/978-981-19-9297-1_23)

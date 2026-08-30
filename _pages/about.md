@@ -39,6 +39,7 @@ I am open to **part-time AI research internships during the academic year** and 
 </div>
 
 # 🔥 News
+- *2026.08*: &nbsp;🎉🎉 Our paper "Sycophancy Suppression Can Impair Rational Updating" has been accepted to EMNLP 2026 Findings! [[OpenReview]](https://openreview.net/forum?id=52ooNZAzfk)
 - *2026.06*: &nbsp;📢 Our survey, "Scaling LLM Agent Learning with Data Synthesis," is available as a preprint. [[Paper]](https://openreview.net/forum?id=pQYwkpYmLy)
 - *2025.09*: &nbsp;📢 Release a novel personality traits evaluation tool, CSI, for assessing LLMs. [[GitHub]](https://github.com/dependentsign/CSI).
 - *2024.07*: &nbsp;🎉🎉 A CIKM short paper has been accepted.
@@ -49,6 +50,22 @@ I am open to **part-time AI research internships during the academic year** and 
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2026 Findings</div><img src='images/500x300.png' alt="Sycophancy vs rational updating" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Sycophancy Suppression Can Impair Rational Updating: Anti-Sycophancy Should Preserve the Ability to Update](https://openreview.net/forum?id=52ooNZAzfk)
+
+**Huanhuan Ma**, Henry Peng Zou, Chengze Li, Enze Ma, Yunyue Su, Philip S. Yu
+
+**Findings of the Association for Computational Linguistics: EMNLP 2026**
+
+We separate **unsupported yielding** (sycophancy) from **rational updating** (evidence-driven correction), and show that DPO, SFT, and activation steering all suppress sycophancy at a measurable cost to the ability to update — a trade-off we localize to a shared internal substrate.
+
+[[OpenReview]](https://openreview.net/forum?id=52ooNZAzfk)
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/CSI.jpg' alt="CSI" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -56,7 +73,7 @@ I am open to **part-time AI research internships during the academic year** and 
 
 **Huanhuan Ma**, Haisong Gong, Xiaoyuan Yi, Xing Xie, Philip S. Yu, Dongkuan Xu
 
-**Preprint**, 2026
+**Preprint**, 2025
 
 We propose **Core Sentiment Inventory (CSI)**, an implicit-association-test-inspired behavioral evaluation framework for more reliable assessment of LLM traits beyond self-report metrics.
 
@@ -77,6 +94,22 @@ Hanrong Zhang, Yankai Chen, Shicheng Fan, Dehai Min, Shaowen Chen, **Huanhuan Ma
 We survey how task specifications, trajectories, feedback signals, and environments can be synthesized to support reliable and scalable learning for LLM agents.
 
 [[Paper]](https://openreview.net/forum?id=pQYwkpYmLy)
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/500x300.png' alt="InterruptBench" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[InterruptBench: Evaluating LLM Agents Under User Interruptions in Long-Horizon Web Tasks](https://arxiv.org/abs/2604.00892)
+
+Henry Peng Zou, Chunyu Miao, Wei-Chieh Huang, Yankai Chen, Yue Zhou, Hanrong Zhang, Yaozu Wu, Liancheng Fang, Zhengyao Gu, Zhen Zhang, Kening Zheng, Fangxin Wang, Yi Nian, Shanghao Li, Wenzhe Fan, Langzhou He, Shicheng Fan, **Huanhuan Ma**, Dehai Min, Weizhi Zhang, Xue Liu, Philip S. Yu
+
+**Preprint**, 2026
+
+We formalize three realistic interruption types — addition, revision, and retraction — and build a benchmark from WebArena-Lite to test whether agents can adapt to mid-task intent changes in long-horizon web navigation.
+
+[[Paper]](https://arxiv.org/abs/2604.00892)
 
 </div>
 </div>
@@ -200,7 +233,7 @@ Data Mining and Big Data (DMBD) 2022
 - [Awesome-LLM-based-Evaluators](https://github.com/dependentsign/Awesome-LLM-based-Evaluators): A curated list of LLM-based evaluators for various NLP tasks. ![GitHub stars](https://img.shields.io/github/stars/dependentsign/Awesome-LLM-based-Evaluators?style=social)
 
 # 📖 Educations
-- *2025.08 - Present*, Ph.D. in Computer Science, University of Illinois Chicago (UIC). Advisor: Prof. Philip S. Yu.
+- *2025.08 - Present*, Ph.D. in Computer Science, University of Illinois Chicago (UIC), expected May 2029. Advisor: Prof. Philip S. Yu.
 
 - *2021.09 - 2024.07*, M.S. in Artificial Intelligence, Institute of Automation, Chinese Academy of Sciences. Advisors: Prof. Liang Wang and Prof. Qiang Liu.
 

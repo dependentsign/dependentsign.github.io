@@ -22,7 +22,7 @@ Welcome to my personal homepage!
 I am a second-year Ph.D. student in Computer Science at the [University of Illinois Chicago (UIC)](https://www.uic.edu/), advised by [Prof. Philip S. Yu](https://scholar.google.com/citations?user=D0lL1r0AAAAJ).
 Before that, I received my M.S. degree in Artificial Intelligence from the [Institute of Automation, Chinese Academy of Sciences (CASIA)](http://english.ia.cas.cn/) in July 2024, where I was advised by [Prof. Qiang Liu](https://john-qiangliu.tech/), [Prof. Shu Wu](https://people.ucas.ac.cn/~shuwu?language=en) and [Prof. Liang Wang](http://www.cbsr.ia.ac.cn/users/liangwang/).
 
-I have spent wonderful time at [BAAI](https://www.baai.ac.cn/english.html), and [NC State](https://dongkuanx27.github.io/page-lab.html) as a research intern/assistant.
+As a research intern at [BAAI](https://www.baai.ac.cn/english.html), I contributed to **Aquila-VL-2B**, a 2B-parameter vision-language model.
 
 # 🔍 Current Research Interests
 My research develops evaluation methods and personalization systems for LLMs and AI agents, with an emphasis on understanding model behavior and building trustworthy, user-aligned systems. I currently focus on:
@@ -243,8 +243,7 @@ Data Mining and Big Data (DMBD) 2022
 
 # 💻 Internships
 
-- *2024.07 - 2025.04*: Research Intern, [BAAI](https://www.baai.ac.cn/english.html), Beijing, China.
-- *2023.12 - 2024.12*: Research Assistant, [NC State University, Generative Intelligent Computing (GIC) Lab](https://dongkuanx27.github.io/page-lab.html), NC, USA.
+- *2024.07 - 2025.04*: Research Intern, [BAAI](https://www.baai.ac.cn/english.html), Beijing, China. Contributed to **Aquila-VL-2B**, a 2B-parameter vision-language model.
 
 # 📅 Academic Services
 

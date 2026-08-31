@@ -84,7 +84,7 @@ We propose **Core Sentiment Inventory (CSI)**, an implicit-association-test-insp
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/500x300.png' alt="" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/agent-data-synthesis-overview.webp' alt="Figure 1: Overview of data synthesis for LLM agent learning" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Scaling LLM Agent Learning with Data Synthesis: A Comprehensive Survey](https://openreview.net/forum?id=pQYwkpYmLy)

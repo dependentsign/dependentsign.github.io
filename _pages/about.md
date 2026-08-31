@@ -63,7 +63,7 @@ I am open to **part-time AI research internships during the academic year** and 
 
 We separate **unsupported yielding** (sycophancy) from **rational updating** (evidence-driven correction), and show that DPO, SFT, and activation steering all suppress sycophancy at a measurable cost to the ability to update — a trade-off we localize to a shared internal substrate.
 
-[[arXiv]](https://arxiv.org/abs/2608.26511)
+[[arXiv]](https://arxiv.org/abs/2608.26511) [[Code]](https://github.com/dependentsign/sycophancy-rational-updating)
 
 </div>
 </div>

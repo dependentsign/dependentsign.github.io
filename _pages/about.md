@@ -30,7 +30,7 @@ My research develops evaluation methods and personalization systems for LLMs and
 - **Model Behavior & Trustworthy AI**: behavioral probes, robustness, explainability, and evaluation beyond self-report metrics.
 - **Personalization & User Modeling**: long-term preferences, memory, user-intention reasoning, and adaptive interaction.
 
-I am open to **part-time AI research internships during the academic year** and **full-time research internships for Summer 2027**.
+I am open to **full-time AI research internships year-round**, during the academic year as well as **Summer 2027**.
 
 📄 [**Curriculum Vitae**](localfiles/HuanhuanMa-CV.pdf) (PDF, updated August 2026)
 

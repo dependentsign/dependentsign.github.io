@@ -41,6 +41,7 @@ I am open to **full-time AI research internships year-round**, during the academ
 </div>
 
 # 🔥 News
+- *2026.09*: &nbsp;🎉🎉 Our paper "JARVIS-Bench: Benchmarking Personal Intelligence Agents on Long-Horizon Real-User Daily Traces" has been accepted to the NeurIPS 2026 Datasets and Benchmarks Track!
 - *2026.08*: &nbsp;🎉🎉 Our paper "Sycophancy Suppression Can Impair Rational Updating" has been accepted to EMNLP 2026 Findings! [[arXiv]](https://arxiv.org/abs/2608.26511)
 - *2026.06*: &nbsp;📢 Our survey, "Scaling LLM Agent Learning with Data Synthesis," is available as a preprint. [[Paper]](https://openreview.net/forum?id=pQYwkpYmLy)
 - *2025.09*: &nbsp;📢 Release a novel personality traits evaluation tool, CSI, for assessing LLMs. [[GitHub]](https://github.com/dependentsign/CSI).

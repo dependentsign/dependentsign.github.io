@@ -32,7 +32,7 @@ My research develops evaluation methods and personalization systems for LLMs and
 
 I am open to **full-time AI research internships year-round**, during the academic year as well as **Summer 2027**.
 
-📄 [**Curriculum Vitae**](localfiles/HuanhuanMa-CV.pdf) (PDF, updated August 2026)
+📄 [**Curriculum Vitae**](localfiles/HuanhuanMa-CV.pdf) (PDF, updated September 2026)
 
 
 <div style="border-left: 4px solid #ccc; padding-left: 20px; margin: 20px 0; font-style: italic;">

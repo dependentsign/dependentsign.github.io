@@ -32,7 +32,7 @@ My research develops evaluation methods and personalization systems for LLMs and
 
 I am open to **full-time AI research internships year-round**, during the academic year as well as **Summer 2027**.
 
-📄 [**Curriculum Vitae**](localfiles/HuanhuanMa-CV.pdf) (PDF, updated September 2026)
+📄 [**Curriculum Vitae**](localfiles/HuanhuanMa-CV.pdf) (PDF, updated November 2026)
 
 
 <div style="border-left: 4px solid #ccc; padding-left: 20px; margin: 20px 0; font-style: italic;">
@@ -41,6 +41,7 @@ I am open to **full-time AI research internships year-round**, during the academ
 </div>
 
 # 🔥 News
+- *2026.11*: &nbsp;Our EMNLP 2026 Findings paper, "Sycophancy Suppression Can Impair Rational Updating," is now available in the ACL Anthology. [[Paper]](https://aclanthology.org/2026.findings-emnlp.1208/)
 - *2026.09*: &nbsp;🎉🎉 Our paper "JARVIS-Bench: Benchmarking Personal Intelligence Agents on Long-Horizon Real-User Daily Traces" has been accepted to the NeurIPS 2026 Datasets and Benchmarks Track!
 - *2026.08*: &nbsp;🎉🎉 Our paper "Sycophancy Suppression Can Impair Rational Updating" has been accepted to EMNLP 2026 Findings! [[arXiv]](https://arxiv.org/abs/2608.26511)
 - *2026.06*: &nbsp;📢 Our survey, "Scaling LLM Agent Learning with Data Synthesis," is available as a preprint. [[Paper]](https://openreview.net/forum?id=pQYwkpYmLy)
@@ -56,7 +57,7 @@ I am open to **full-time AI research internships year-round**, during the academ
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2026 Findings</div><img src='images/sycophancy-rational-updating.webp' alt="Figure 1: unsupported-yielding and rational-updating examples" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Sycophancy Suppression Can Impair Rational Updating: Anti-Sycophancy Should Preserve the Ability to Update](https://arxiv.org/abs/2608.26511)
+[Sycophancy Suppression Can Impair Rational Updating: Anti-Sycophancy Should Preserve the Ability to Update](https://aclanthology.org/2026.findings-emnlp.1208/)
 
 **Huanhuan Ma**, Henry Peng Zou, Chengze Li, Enze Ma, Yunyue Su, Philip S. Yu
 
@@ -64,7 +65,7 @@ I am open to **full-time AI research internships year-round**, during the academ
 
 We separate **unsupported yielding** (sycophancy) from **rational updating** (evidence-driven correction), and show that DPO, SFT, and activation steering all suppress sycophancy at a measurable cost to the ability to update — a trade-off we localize to a shared internal substrate.
 
-[[arXiv]](https://arxiv.org/abs/2608.26511) [[Code]](https://github.com/dependentsign/sycophancy-rational-updating)
+[[Paper]](https://aclanthology.org/2026.findings-emnlp.1208/) [[arXiv]](https://arxiv.org/abs/2608.26511) [[Code]](https://github.com/dependentsign/sycophancy-rational-updating)
 
 </div>
 </div>

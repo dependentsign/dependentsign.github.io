@@ -237,7 +237,7 @@ Data Mining and Big Data (DMBD) 2022
 - [Awesome-LLM-based-Evaluators](https://github.com/dependentsign/Awesome-LLM-based-Evaluators): A curated list of LLM-based evaluators for various NLP tasks. ![GitHub stars](https://img.shields.io/github/stars/dependentsign/Awesome-LLM-based-Evaluators?style=social)
 
 # 📖 Educations
-- *2025.08 - Present*, Ph.D. in Computer Science, University of Illinois Chicago (UIC), expected May 2029. Advisor: Prof. Philip S. Yu.
+- *2025.08 - Present*, Ph.D. in Computer Science, University of Illinois Chicago (UIC), expected May 2028. Advisor: Prof. Philip S. Yu.
 
 - *2021.09 - 2024.07*, M.S. in Artificial Intelligence, Institute of Automation, Chinese Academy of Sciences. Advisors: Prof. Liang Wang and Prof. Qiang Liu.
 
